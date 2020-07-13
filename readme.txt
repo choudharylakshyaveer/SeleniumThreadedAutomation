@@ -1,0 +1,1 @@
+Before running the project import the test.sql file to your database, and change the credentials in the project accordingly.
