@@ -1,3 +1,3 @@
 # SeleniumThreadedAutomation
 
-Please first import the sql file in your database.
+Please first import the test.sql file in your database.
